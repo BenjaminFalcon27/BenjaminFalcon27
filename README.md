@@ -11,7 +11,7 @@
 
 ϟ Recently joined the company Octopus Lab as an apprentice web developer
 
-## My DevCard
+## My DevCard (Computer Watch)
 
 <a href="https://app.daily.dev/BenjaminFalcon"><img src="https://api.daily.dev/devcards/cfeaa53a61644062a3bc3933ede88a0b.png?r=7fr" width="400" alt="Trolais Benjamin's Dev Card"/></a>
 
